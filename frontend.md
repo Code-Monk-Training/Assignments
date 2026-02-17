@@ -25,11 +25,12 @@ We will monitor:
 ---
 
 ## 📌 Classroom Links 
-### 📱 Mobile Frontend Development
-**https://classroom.github.com/a/_6mBqBpQ**
 
-### 🌐 Web Frontend Development
-**https://classroom.github.com/a/G7JAYeoh**
+### Select any one tech stack in Mobile / WEB 
+
+### 📱 **[Mobile Frontend Development](https://classroom.github.com/a/_6mBqBpQ)**
+
+### 🌐 **[Web Frontend Development](https://classroom.github.com/a/gbnhHe5W)**
 
 ⚠️ Do not join both classrooms(contact us if you want to).
 
