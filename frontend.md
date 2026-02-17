@@ -24,14 +24,11 @@ We will monitor:
 
 ---
 
-## 📌 Classroom Links (Add Links Here)
-
+## 📌 Classroom Links 
 ### 📱 Mobile Frontend Development
-👉 GitHub Classroom Link:  
 **https://classroom.github.com/a/_6mBqBpQ**
 
 ### 🌐 Web Frontend Development
-👉 GitHub Classroom Link:  
 **https://classroom.github.com/a/G7JAYeoh**
 
 ⚠️ Do not join both classrooms(contact us if you want to).
